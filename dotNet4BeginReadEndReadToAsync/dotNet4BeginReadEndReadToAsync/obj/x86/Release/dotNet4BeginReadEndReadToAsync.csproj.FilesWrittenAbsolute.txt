@@ -1,0 +1,5 @@
+/Users/fujic/Projects/dotNet4BeginReadEndReadToAsync/dotNet4BeginReadEndReadToAsync/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/fujic/Projects/dotNet4BeginReadEndReadToAsync/dotNet4BeginReadEndReadToAsync/bin/Release/dotNet4BeginReadEndReadToAsync.exe.mdb
+/Users/fujic/Projects/dotNet4BeginReadEndReadToAsync/dotNet4BeginReadEndReadToAsync/bin/Release/dotNet4BeginReadEndReadToAsync.exe
+/Users/fujic/Projects/dotNet4BeginReadEndReadToAsync/dotNet4BeginReadEndReadToAsync/obj/x86/Release/dotNet4BeginReadEndReadToAsync.exe
+/Users/fujic/Projects/dotNet4BeginReadEndReadToAsync/dotNet4BeginReadEndReadToAsync/obj/x86/Release/dotNet4BeginReadEndReadToAsync.exe.mdb

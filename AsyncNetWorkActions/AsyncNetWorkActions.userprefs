@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="AsyncNetWorkActions/AsyncNetWorkActions.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsyncNetWorkActions/fjcNetWorkLib/AsyncPingFromEvent.cs">
+    <Files>
+      <File FileName="AsyncNetWorkActions/Program.cs" Line="1" Column="1" />
+      <File FileName="../Rambda3.0Diff40/AsyncPingLinq/AsyncPingList.cs" Line="40" Column="4" />
+      <File FileName="AsyncNetWorkActions/fjcNetWorkLib/AsyncPingFromEvent.cs" Line="1" Column="1" />
+      <File FileName="AsyncNetWorkActions/fjcNetWorkLib/AsyncPingFromSync.cs" Line="1" Column="1" />
+      <File FileName="AsyncNetWorkActions/fjcNetWorkLib/AsyncPingList.cs" Line="44" Column="29" />
+      <File FileName="../Rambda3.0Diff40/AsyncPingLinq/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/fujic/Projects/Rambda3.0Diff40/3.0Dff4.0Rambda/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fujic/Projects/Rambda3.0Diff40/3.0Dff4.0Rambda/bin/Release/3.0Dff4.0Rambda.exe.mdb
+/Users/fujic/Projects/Rambda3.0Diff40/3.0Dff4.0Rambda/bin/Release/3.0Dff4.0Rambda.exe
+/Users/fujic/Projects/Rambda3.0Diff40/3.0Dff4.0Rambda/obj/Release/3.0Dff4.0Rambda.exe
+/Users/fujic/Projects/Rambda3.0Diff40/3.0Dff4.0Rambda/obj/Release/3.0Dff4.0Rambda.exe.mdb

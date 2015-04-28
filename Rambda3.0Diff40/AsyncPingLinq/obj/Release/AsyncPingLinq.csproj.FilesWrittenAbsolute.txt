@@ -1,0 +1,5 @@
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncPingLinq/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncPingLinq/bin/Release/AsyncPingLinq.exe.mdb
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncPingLinq/bin/Release/AsyncPingLinq.exe
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncPingLinq/obj/Release/AsyncPingLinq.exe
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncPingLinq/obj/Release/AsyncPingLinq.exe.mdb

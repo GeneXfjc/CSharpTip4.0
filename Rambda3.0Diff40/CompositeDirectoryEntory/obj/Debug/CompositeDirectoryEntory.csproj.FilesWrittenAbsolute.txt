@@ -1,0 +1,5 @@
+/Users/fujic/Projects/Rambda3.0Diff40/CompositeDirectoryEntory/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/fujic/Projects/Rambda3.0Diff40/CompositeDirectoryEntory/bin/Debug/CompositeDirectoryEntory.exe.mdb
+/Users/fujic/Projects/Rambda3.0Diff40/CompositeDirectoryEntory/bin/Debug/CompositeDirectoryEntory.exe
+/Users/fujic/Projects/Rambda3.0Diff40/CompositeDirectoryEntory/obj/Debug/CompositeDirectoryEntory.exe
+/Users/fujic/Projects/Rambda3.0Diff40/CompositeDirectoryEntory/obj/Debug/CompositeDirectoryEntory.exe.mdb

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.0Dff4.0Rambda", "3.0Dff4.0Rambda\3.0Dff4.0Rambda.csproj", "{99FC7422-C880-484F-9C73-F71EF4D4C6D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncLinq", "AsyncLinq\AsyncLinq.csproj", "{ECE905FD-22FA-4DD2-A569-CF9DC5609EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncPingLinq", "AsyncPingLinq\AsyncPingLinq.csproj", "{115B3EA8-E83D-42EC-9E3D-407AF78CF901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeDirectoryEntory", "CompositeDirectoryEntory\CompositeDirectoryEntory.csproj", "{73D8F0F3-BE91-4A79-A3AA-8945BB466373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetFilesAsync", "GetFilesAsync\GetFilesAsync.csproj", "{B1B56BE7-E9FE-4D60-8F71-7902AD40E460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115B3EA8-E83D-42EC-9E3D-407AF78CF901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115B3EA8-E83D-42EC-9E3D-407AF78CF901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115B3EA8-E83D-42EC-9E3D-407AF78CF901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115B3EA8-E83D-42EC-9E3D-407AF78CF901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D8F0F3-BE91-4A79-A3AA-8945BB466373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D8F0F3-BE91-4A79-A3AA-8945BB466373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D8F0F3-BE91-4A79-A3AA-8945BB466373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D8F0F3-BE91-4A79-A3AA-8945BB466373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FC7422-C880-484F-9C73-F71EF4D4C6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FC7422-C880-484F-9C73-F71EF4D4C6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FC7422-C880-484F-9C73-F71EF4D4C6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FC7422-C880-484F-9C73-F71EF4D4C6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B56BE7-E9FE-4D60-8F71-7902AD40E460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B56BE7-E9FE-4D60-8F71-7902AD40E460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B56BE7-E9FE-4D60-8F71-7902AD40E460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B56BE7-E9FE-4D60-8F71-7902AD40E460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE905FD-22FA-4DD2-A569-CF9DC5609EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE905FD-22FA-4DD2-A569-CF9DC5609EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE905FD-22FA-4DD2-A569-CF9DC5609EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE905FD-22FA-4DD2-A569-CF9DC5609EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GetFilesAsync\GetFilesAsync.csproj
+	EndGlobalSection
+EndGlobal

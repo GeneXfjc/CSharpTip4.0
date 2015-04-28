@@ -1,0 +1,6 @@
+/Users/fujic/Projects/Rambda3.0Diff40/GetFilesAsync/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/fujic/Projects/Rambda3.0Diff40/GetFilesAsync/bin/Debug/GetFilesAsync.exe.mdb
+/Users/fujic/Projects/Rambda3.0Diff40/GetFilesAsync/bin/Debug/GetFilesAsync.exe
+/Users/fujic/Projects/Rambda3.0Diff40/GetFilesAsync/obj/Debug/GetFilesAsync.exe
+/Users/fujic/Projects/Rambda3.0Diff40/GetFilesAsync/obj/Debug/GetFilesAsync.exe.mdb
+/Users/fujic/Projects/Rambda3.0Diff40/GetFilesAsync/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs

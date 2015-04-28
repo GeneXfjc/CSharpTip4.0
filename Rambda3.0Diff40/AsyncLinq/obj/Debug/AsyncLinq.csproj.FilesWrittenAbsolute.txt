@@ -1,0 +1,5 @@
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncLinq/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncLinq/bin/Debug/AsyncLinq.exe.mdb
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncLinq/bin/Debug/AsyncLinq.exe
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncLinq/obj/Debug/AsyncLinq.exe
+/Users/fujic/Projects/Rambda3.0Diff40/AsyncLinq/obj/Debug/AsyncLinq.exe.mdb
