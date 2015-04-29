@@ -16,6 +16,8 @@ namespace Base40UseAsync
         }
         public IEnumerator<T> GetEnumerator()
         {
+            //必要に応じてキャッシュを利用することも考えるべき
+            //特にキャンセルがこの処理から利用できると嬉しいかも
             var tasks = new List<Task<T>>(_Tasks);
             while (tasks.Count > 0)
             {
