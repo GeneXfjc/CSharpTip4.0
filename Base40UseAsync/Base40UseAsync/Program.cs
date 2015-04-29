@@ -38,7 +38,7 @@ namespace Base40UseAsync
             {
                     var resTask =used.AsyncMethod(i);
                     //なんらかの加工が必要なばい
-                    //task処理後のTaskを返す
+                    //task処理後のTaskをContinueWith内で処理する。
                     return  resTask.ContinueWith(
                                 tRes=> new NameInfo(i,tRes)
                             );

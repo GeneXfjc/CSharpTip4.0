@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Base40UseAsync/Program.cs">
     <Files>
-      <File FileName="Base40UseAsync/UseClass.cs" Line="23" Column="27" />
-      <File FileName="Base40UseAsync/Program.cs" Line="16" Column="14" NotebookId="1" />
+      <File FileName="Base40UseAsync/UseClass.cs" Line="42" Column="24" />
+      <File FileName="Base40UseAsync/Program.cs" Line="41" Column="55" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
