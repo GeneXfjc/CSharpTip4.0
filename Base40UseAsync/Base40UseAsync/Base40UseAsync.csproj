@@ -3,12 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProductVersion>8.0.30703</ProductVersion>
-    <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{4E022809-1A12-46BE-A049-A3BD5861139C}</ProjectGuid>
+    <ProjectGuid>{6E4535B8-5BE6-4269-B8F7-C0E27DE232D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>dotNet4.ReadAsync</RootNamespace>
-    <AssemblyName>dotNet4.5ReadAsync</AssemblyName>
+    <RootNamespace>Base40UseAsync</RootNamespace>
+    <AssemblyName>Base40UseAsync</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -37,7 +35,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="progAsync.cs" />
+    <Compile Include="UseClass.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

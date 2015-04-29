@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 
 namespace dotNet4.ReadAsync
 {
+    //DotNet4.5 AsyncAwaitを使用しているのですっきり
 	class MainClass
 	{
 		public static void Main (string[] args)

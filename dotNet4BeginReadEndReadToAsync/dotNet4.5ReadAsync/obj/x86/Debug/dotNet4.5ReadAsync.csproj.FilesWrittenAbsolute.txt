@@ -4,3 +4,8 @@
 /Users/fujic/Projects/dotNet4BeginReadEndReadToAsync/dotNet4.5ReadAsync/bin/Debug/dotNet4.5ReadAsync.exe
 /Users/fujic/Projects/dotNet4BeginReadEndReadToAsync/dotNet4.5ReadAsync/obj/x86/Debug/dotNet4.5ReadAsync.exe
 /Users/fujic/Projects/dotNet4BeginReadEndReadToAsync/dotNet4.5ReadAsync/obj/x86/Debug/dotNet4.5ReadAsync.exe.mdb
+/Users/fujic/Documents/Develop/GitHub/CSharp40Tip/CSharpTip4.0/dotNet4BeginReadEndReadToAsync/dotNet4.5ReadAsync/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fujic/Documents/Develop/GitHub/CSharp40Tip/CSharpTip4.0/dotNet4BeginReadEndReadToAsync/dotNet4.5ReadAsync/bin/Debug/dotNet4.5ReadAsync.exe.mdb
+/Users/fujic/Documents/Develop/GitHub/CSharp40Tip/CSharpTip4.0/dotNet4BeginReadEndReadToAsync/dotNet4.5ReadAsync/bin/Debug/dotNet4.5ReadAsync.exe
+/Users/fujic/Documents/Develop/GitHub/CSharp40Tip/CSharpTip4.0/dotNet4BeginReadEndReadToAsync/dotNet4.5ReadAsync/obj/x86/Debug/dotNet4.5ReadAsync.exe
+/Users/fujic/Documents/Develop/GitHub/CSharp40Tip/CSharpTip4.0/dotNet4BeginReadEndReadToAsync/dotNet4.5ReadAsync/obj/x86/Debug/dotNet4.5ReadAsync.exe.mdb

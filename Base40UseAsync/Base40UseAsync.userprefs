@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Base40UseAsync/Base40UseAsync.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Base40UseAsync/Program.cs">
+    <Files>
+      <File FileName="Base40UseAsync/UseClass.cs" Line="23" Column="27" />
+      <File FileName="Base40UseAsync/Program.cs" Line="16" Column="14" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../dotNet4BeginReadEndReadToAsync/dotNet4BeginReadEndReadToAsync/BeginEndToAsyncTask.cs" line="45" offsetX="381" offsetY="660" expression="outStream.CanRead" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

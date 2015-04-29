@@ -1,9 +1,10 @@
-﻿<Properties>
+﻿<Properties StartupItem="dotNet4.5ReadAsync/dotNet4.5ReadAsync.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="dotNet4.5ReadAsync/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotNet4BeginReadEndReadToAsync/BeginEndToAsyncTask.cs">
     <Files>
       <File FileName="dotNet4.5ReadAsync/progAsync.cs" Line="8" Column="24" />
-      <File FileName="dotNet4.5ReadAsync/Program.cs" Line="28" Column="1" />
+      <File FileName="dotNet4.5ReadAsync/Program.cs" Line="7" Column="40" />
+      <File FileName="dotNet4BeginReadEndReadToAsync/BeginEndToAsyncTask.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
