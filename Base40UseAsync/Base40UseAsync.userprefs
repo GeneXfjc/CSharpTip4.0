@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="Base40UseAsync/Base40UseAsync.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Base40UseAsync/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Base40UseAsync/UseClass.cs">
     <Files>
-      <File FileName="Base40UseAsync/UseClass.cs" Line="42" Column="24" />
-      <File FileName="Base40UseAsync/Program.cs" Line="41" Column="55" NotebookId="1" />
+      <File FileName="Base40UseAsync/UseClass.cs" Line="29" Column="10" />
+      <File FileName="Base40UseAsync/Program.cs" Line="42" Column="35" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
